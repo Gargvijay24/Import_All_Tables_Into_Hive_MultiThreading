@@ -1,0 +1,9 @@
+Download source code
+Change source configuration like Oracle/SQL conenction string
+Set destination configuration like hive server, DB, username,password etc
+Compile the code
+Export it as runnable jar
+Copy jar on hive server
+Execute jar
+All tables in source DB will start getting imported in Hive
+Make sure you have added all requrired library for Java mutithreading
